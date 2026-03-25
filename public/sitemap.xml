@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 홈페이지 -->
+  <url>
+    <loc>https://www.a7lashare.com/</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 브랜드소개 -->
+  <url>
+    <loc>https://www.a7lashare.com/Brand/intro</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 사업개요 -->
+  <url>
+    <loc>https://www.a7lashare.com/BusinessGuide/intro</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/BusinessGuide/documents</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 분양안내 -->
+  <url>
+    <loc>https://www.a7lashare.com/SalesInfo/SubscriptionGuide</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/SalesInfo/announcement</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/SalesInfo/stampTax</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/SalesInfo/guide</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 입지환경 -->
+  <url>
+    <loc>https://www.a7lashare.com/LocationEnvironment/intro</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/LocationEnvironment/primium</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 단지안내 -->
+  <url>
+    <loc>https://www.a7lashare.com/ComplexGuide/intro</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/ComplexGuide/detailintro</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/ComplexGuide/community</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 세대안내 -->
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/59A</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/59B</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/84A</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/84B</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/114A</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.a7lashare.com/FloorPlan/Emodel</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 홍보센터 -->
+  <url>
+    <loc>https://www.a7lashare.com/Promotion/Customer</loc>
+    <lastmod>2026-03-25T00:00:00+09:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
