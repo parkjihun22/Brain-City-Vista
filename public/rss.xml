@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>브레인시티 비스타동원</title>
-    <link>https://www.a7lashare.com/</link>
+    <link>https://www.leecols.kr/</link>
     <description>브레인시티 비스타동원 공식 RSS입니다. 브랜드소개, 사업개요, 분양안내, 입지환경, 단지안내, 세대안내, 홍보센터 정보를 제공합니다.</description>
     <language>ko-KR</language>
-    <atom:link href="https://www.a7lashare.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.leecols.kr/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- 브랜드 소개 -->
     <item>
       <title>브랜드 소개</title>
-      <link>https://www.a7lashare.com/Brand/intro</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/Brand/intro</guid>
+      <link>https://www.leecols.kr/Brand/intro</link>
+      <guid isPermaLink="true">https://www.leecols.kr/Brand/intro</guid>
       <description><![CDATA[브랜드 철학과 가치를 소개합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -19,8 +19,8 @@
     <!-- 사업안내 -->
     <item>
       <title>사업안내</title>
-      <link>https://www.a7lashare.com/BusinessGuide/intro</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/BusinessGuide/intro</guid>
+      <link>https://www.leecols.kr/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://www.leecols.kr/BusinessGuide/intro</guid>
       <description><![CDATA[사업개요와 주요 정보를 안내합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -28,8 +28,8 @@
     <!-- 공급안내 -->
     <item>
       <title>공급안내</title>
-      <link>https://www.a7lashare.com/BusinessGuide/documents</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/BusinessGuide/documents</guid>
+      <link>https://www.leecols.kr/BusinessGuide/documents</link>
+      <guid isPermaLink="true">https://www.leecols.kr/BusinessGuide/documents</guid>
       <description><![CDATA[공급개요와 청약 관련 주요 정보를 안내합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -37,8 +37,8 @@
     <!-- 계약서류안내 -->
     <item>
       <title>계약서류안내</title>
-      <link>https://www.a7lashare.com/SalesInfo/SubscriptionGuide</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/SalesInfo/SubscriptionGuide</guid>
+      <link>https://www.leecols.kr/SalesInfo/SubscriptionGuide</link>
+      <guid isPermaLink="true">https://www.leecols.kr/SalesInfo/SubscriptionGuide</guid>
       <description><![CDATA[계약 진행에 필요한 서류와 준비사항을 안내합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -46,8 +46,8 @@
     <!-- 모집공고안내 -->
     <item>
       <title>모집공고안내</title>
-      <link>https://www.a7lashare.com/SalesInfo/announcement</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/SalesInfo/announcement</guid>
+      <link>https://www.leecols.kr/SalesInfo/announcement</link>
+      <guid isPermaLink="true">https://www.leecols.kr/SalesInfo/announcement</guid>
       <description><![CDATA[모집공고의 주요 내용과 청약 필수 정보를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -55,8 +55,8 @@
     <!-- 인지세납부안내 -->
     <item>
       <title>인지세납부안내</title>
-      <link>https://www.a7lashare.com/SalesInfo/stampTax</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/SalesInfo/stampTax</guid>
+      <link>https://www.leecols.kr/SalesInfo/stampTax</link>
+      <guid isPermaLink="true">https://www.leecols.kr/SalesInfo/stampTax</guid>
       <description><![CDATA[인지세 납부 방법과 유의사항을 안내합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -64,8 +64,8 @@
     <!-- 주택취득자금조달 작성안내 -->
     <item>
       <title>주택취득자금조달 작성안내</title>
-      <link>https://www.a7lashare.com/SalesInfo/guide</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/SalesInfo/guide</guid>
+      <link>https://www.leecols.kr/SalesInfo/guide</link>
+      <guid isPermaLink="true">https://www.leecols.kr/SalesInfo/guide</guid>
       <description><![CDATA[주택취득자금조달계획서 작성 방법과 유의사항을 안내합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -73,8 +73,8 @@
     <!-- 입지안내 -->
     <item>
       <title>입지안내</title>
-      <link>https://www.a7lashare.com/LocationEnvironment/intro</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/LocationEnvironment/intro</guid>
+      <link>https://www.leecols.kr/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://www.leecols.kr/LocationEnvironment/intro</guid>
       <description><![CDATA[교통, 생활 인프라 등 입지 포인트를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -82,8 +82,8 @@
     <!-- 프리미엄 -->
     <item>
       <title>프리미엄</title>
-      <link>https://www.a7lashare.com/LocationEnvironment/primium</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/LocationEnvironment/primium</guid>
+      <link>https://www.leecols.kr/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://www.leecols.kr/LocationEnvironment/primium</guid>
       <description><![CDATA[브레인시티 비스타동원의 프리미엄 포인트를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -91,8 +91,8 @@
     <!-- 단지 배치도 -->
     <item>
       <title>단지 배치도</title>
-      <link>https://www.a7lashare.com/ComplexGuide/intro</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/ComplexGuide/intro</guid>
+      <link>https://www.leecols.kr/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://www.leecols.kr/ComplexGuide/intro</guid>
       <description><![CDATA[단지 배치와 주요 동선을 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -100,8 +100,8 @@
     <!-- 호수 배치도 -->
     <item>
       <title>호수 배치도</title>
-      <link>https://www.a7lashare.com/ComplexGuide/detailintro</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/ComplexGuide/detailintro</guid>
+      <link>https://www.leecols.kr/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://www.leecols.kr/ComplexGuide/detailintro</guid>
       <description><![CDATA[동·호수 배치 정보를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -109,8 +109,8 @@
     <!-- 커뮤니티 -->
     <item>
       <title>커뮤니티</title>
-      <link>https://www.a7lashare.com/ComplexGuide/community</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/ComplexGuide/community</guid>
+      <link>https://www.leecols.kr/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://www.leecols.kr/ComplexGuide/community</guid>
       <description><![CDATA[단지 내 커뮤니티 시설을 소개합니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -118,8 +118,8 @@
     <!-- 59A -->
     <item>
       <title>59A</title>
-      <link>https://www.a7lashare.com/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/59A</guid>
+      <link>https://www.leecols.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/59A</guid>
       <description><![CDATA[59A 타입 평면 안내입니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -127,8 +127,8 @@
     <!-- 84A -->
     <item>
       <title>84A</title>
-      <link>https://www.a7lashare.com/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/59B</guid>
+      <link>https://www.leecols.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/59B</guid>
       <description><![CDATA[84A 타입 평면 안내입니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -136,8 +136,8 @@
     <!-- 84B -->
     <item>
       <title>84B</title>
-      <link>https://www.a7lashare.com/FloorPlan/84A</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/84A</guid>
+      <link>https://www.leecols.kr/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/84A</guid>
       <description><![CDATA[84B 타입 평면 안내입니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -145,8 +145,8 @@
     <!-- 84C -->
     <item>
       <title>84C</title>
-      <link>https://www.a7lashare.com/FloorPlan/84B</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/84B</guid>
+      <link>https://www.leecols.kr/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/84B</guid>
       <description><![CDATA[84C 타입 평면 안내입니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -154,8 +154,8 @@
     <!-- 106 -->
     <item>
       <title>106</title>
-      <link>https://www.a7lashare.com/FloorPlan/114A</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/114A</guid>
+      <link>https://www.leecols.kr/FloorPlan/114A</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/114A</guid>
       <description><![CDATA[106 타입 평면 안내입니다.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -163,8 +163,8 @@
     <!-- E-모델하우스 -->
     <item>
       <title>E-모델하우스</title>
-      <link>https://www.a7lashare.com/FloorPlan/Emodel</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/FloorPlan/Emodel</guid>
+      <link>https://www.leecols.kr/FloorPlan/Emodel</link>
+      <guid isPermaLink="true">https://www.leecols.kr/FloorPlan/Emodel</guid>
       <description><![CDATA[온라인 E-모델하우스를 확인하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>
@@ -172,8 +172,8 @@
     <!-- 관심고객등록 -->
     <item>
       <title>관심고객등록</title>
-      <link>https://www.a7lashare.com/Promotion/Customer</link>
-      <guid isPermaLink="true">https://www.a7lashare.com/Promotion/Customer</guid>
+      <link>https://www.leecols.kr/Promotion/Customer</link>
+      <guid isPermaLink="true">https://www.leecols.kr/Promotion/Customer</guid>
       <description><![CDATA[관심고객 등록 및 상담 신청을 진행하세요.]]></description>
       <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
     </item>

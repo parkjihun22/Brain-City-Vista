@@ -83,7 +83,7 @@ export default function Customer() {
           name="keywords"
           content="브레인시티 비스타동원, 관심고객 등록, 상담 신청, 분양 일정 알림, 방문 안내"
         />
-        <link rel="canonical" href="https://www.a7lashare.com/Contact/interest" />
+        <link rel="canonical" href="https://www.leecols.kr/Contact/interest" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -94,8 +94,8 @@ export default function Customer() {
           property="og:description"
           content="분양 일정 및 주요 안내 소식을 빠르게 받아보세요. 간편한 관심고객 등록/상담 신청."
         />
-        <meta property="og:url" content="https://www.a7lashare.com/Contact/interest" />
-        <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
+        <meta property="og:url" content="https://www.leecols.kr/Contact/interest" />
+        <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
         <meta
           property="og:image:alt"
           content="브레인시티 비스타동원관심고객 등록 안내 이미지"
@@ -108,8 +108,8 @@ export default function Customer() {
           name="twitter:description"
           content="분양 일정 알림과 상담 요청을 간편하게 남겨보세요."
         />
-        <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
-        <meta name="twitter:url" content="https://www.a7lashare.com/Contact/interest" />
+        <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
+        <meta name="twitter:url" content="https://www.leecols.kr/Contact/interest" />
 
         {/* JSON-LD: ContactPage + Breadcrumbs */}
         <script type="application/ld+json">
@@ -117,7 +117,7 @@ export default function Customer() {
             "@context": "https://schema.org",
             "@type": "ContactPage",
             "name": "브레인시티 비스타동원– 관심고객 등록",
-            "url": "https://www.a7lashare.com/Contact/interest",
+            "url": "https://www.leecols.kr/Contact/interest",
             "inLanguage": "ko-KR",
             "description": "브레인시티 비스타동원관심고객 등록. 분양 일정 및 주요 안내 소식 알림과 상담 요청을 접수합니다.",
             "isPartOf": {
@@ -131,17 +131,17 @@ export default function Customer() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "홈",
-                "item": "https://www.a7lashare.com/"
+                "item": "https://www.leecols.kr/"
               }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "관심고객 등록",
-                "item": "https://www.a7lashare.com/Contact/interest"
+                "item": "https://www.leecols.kr/Contact/interest"
               }]
             },
             "potentialAction": {
               "@type": "SubmitAction",
-              "target": "https://www.a7lashare.com/Contact/interest",
+              "target": "https://www.leecols.kr/Contact/interest",
               "name": "관심고객 등록 제출"
             }
           }`}

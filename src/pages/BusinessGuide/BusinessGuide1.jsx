@@ -74,7 +74,7 @@ const BusinessGuide1 = () => {
 				name="keywords"
 				content="브레인시티 비스타동원, 평택 브레인시티, 사업개요, 평택 분양, 브레인시티 아파트, 프리미엄 아파트"
 			/>
-			<link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/intro" />
+			<link rel="canonical" href="https://www.leecols.kr/BusinessGuide/intro" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -85,9 +85,9 @@ const BusinessGuide1 = () => {
 				property="og:description"
 				content="브레인시티 비스타동원의 사업개요와 단지 핵심 정보를 확인하세요."
 			/>
-			<meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
+			<meta property="og:image" content="https://www.leecols.kr/Main1.png" />
 			<meta property="og:image:alt" content="브레인시티 비스타동원 조감도" />
-			<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
+			<meta property="og:url" content="https://www.leecols.kr/BusinessGuide/intro" />
 
 			{/* Twitter */}
 			<meta name="twitter:card" content="summary_large_image" />
@@ -96,8 +96,8 @@ const BusinessGuide1 = () => {
 				name="twitter:description"
 				content="브레인시티 비스타동원 사업개요와 단지 핵심 정보를 소개합니다."
 			/>
-			<meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
-			<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
+			<meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
+			<meta name="twitter:url" content="https://www.leecols.kr/BusinessGuide/intro" />
 
 			{/* JSON-LD 구조화 데이터 */}
 			<script type="application/ld+json">
@@ -107,7 +107,7 @@ const BusinessGuide1 = () => {
 				"@type": "WebPage",
 				"name": "브레인시티 비스타동원 - 사업안내",
 				"description": "브레인시티 비스타동원 사업개요 및 단지 주요 정보를 소개합니다.",
-				"url": "https://www.a7lashare.com/BusinessGuide/intro",
+				"url": "https://www.leecols.kr/BusinessGuide/intro",
 				"inLanguage": "ko-KR"
 				}
 				`}

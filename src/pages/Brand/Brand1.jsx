@@ -70,7 +70,7 @@ const Brand1 = () => {
             name="keywords"
             content="브레인시티 비스타동원, 브랜드소개, 평택 브레인시티, 프리미엄 아파트, 평택 분양, 브레인시티 아파트"
           />
-          <link rel="canonical" href="https://www.a7lashare.com/Brand/intro" />
+          <link rel="canonical" href="https://www.leecols.kr/Brand/intro" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
@@ -81,8 +81,8 @@ const Brand1 = () => {
             property="og:description"
             content="브레인시티 비스타동원의 브랜드 철학과 프리미엄 라이프 가치를 소개합니다."
           />
-          <meta property="og:url" content="https://www.a7lashare.com/Brand/intro" />
-          <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
+          <meta property="og:url" content="https://www.leecols.kr/Brand/intro" />
+          <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
           <meta property="og:image:alt" content="브레인시티 비스타동원 브랜드 이미지" />
 
           {/* Twitter */}
@@ -92,8 +92,8 @@ const Brand1 = () => {
             name="twitter:description"
             content="브레인시티 비스타동원의 브랜드 철학과 주거 가치를 소개합니다."
           />
-          <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
-          <meta name="twitter:url" content="https://www.a7lashare.com/Brand/intro" />
+          <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
+          <meta name="twitter:url" content="https://www.leecols.kr/Brand/intro" />
 
           {/* Structured Data */}
           <script type="application/ld+json">
@@ -101,7 +101,7 @@ const Brand1 = () => {
               "@context": "https://schema.org",
               "@type": "AboutPage",
               "name": "브레인시티 비스타동원 - 브랜드 소개",
-              "url": "https://www.a7lashare.com/Brand/intro",
+              "url": "https://www.leecols.kr/Brand/intro",
               "inLanguage": "ko-KR",
               "description": "브레인시티 비스타동원의 브랜드 철학과 프리미엄 주거 가치를 소개합니다.",
               "isPartOf": {
@@ -115,12 +115,12 @@ const Brand1 = () => {
                   "@type": "ListItem",
                   "position": 1,
                   "name": "홈",
-                  "item": "https://www.a7lashare.com/"
+                  "item": "https://www.leecols.kr/"
                 }, {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "브랜드 소개",
-                  "item": "https://www.a7lashare.com/Brand/intro"
+                  "item": "https://www.leecols.kr/Brand/intro"
                 }]
               }
             }`}
