@@ -62,7 +62,7 @@ const Brand2 = () => {
 					name="keywords"
 					content="브레인시티 비스타동원, 홍보영상, 단지영상, 평택 브레인시티, 프리미엄 아파트, 브레인시티 아파트"
 				/>
-				<link rel="canonical" href="https://www.leecols.kr/Brand/video" />
+				<link rel="canonical" href="https://www.sketchs.co.kr/Brand/video" />
 
 				{/* Open Graph (minimal) */}
 				<meta property="og:type" content="website" />
@@ -73,8 +73,8 @@ const Brand2 = () => {
 					property="og:description"
 					content="홍보영상으로 브레인시티 비스타동원의 단지 분위기와 핵심 포인트를 간단히 확인하세요."
 				/>
-				<meta property="og:url" content="https://www.leecols.kr/Brand/video" />
-				<meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+				<meta property="og:url" content="https://www.sketchs.co.kr/Brand/video" />
+				<meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
 				<meta property="og:image:alt" content="브레인시티 비스타동원 홍보영상 썸네일" />
 
 				{/* Twitter (minimal) */}
@@ -84,8 +84,8 @@ const Brand2 = () => {
 					name="twitter:description"
 					content="영상으로 브레인시티 비스타동원의 핵심 포인트를 빠르게 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
-				<meta name="twitter:url" content="https://www.leecols.kr/Brand/video" />
+				<meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
+				<meta name="twitter:url" content="https://www.sketchs.co.kr/Brand/video" />
 			</Helmet>
 
 			<Header isChanged={isScroll} />

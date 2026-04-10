@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "브레인시티 비스타동원", url: "https://www.leecols.kr/" },
+  { name: "브레인시티 비스타동원", url: "https://www.sketchs.co.kr/" },
 ];
 
 const Footer = () => {

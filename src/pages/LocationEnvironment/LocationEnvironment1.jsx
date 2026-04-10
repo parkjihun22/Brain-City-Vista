@@ -115,7 +115,7 @@ const LocationEnvironment1 = () => {
         name="keywords"
         content="브레인시티 비스타동원, 입지환경, 입지안내, 교통, 생활인프라, 교육환경, 자연환경, 평택 브레인시티, 브레인시티 아파트"
       />
-      <link rel="canonical" href="https://www.leecols.kr/LocationEnvironment/intro" />
+      <link rel="canonical" href="https://www.sketchs.co.kr/LocationEnvironment/intro" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -126,8 +126,8 @@ const LocationEnvironment1 = () => {
         property="og:description"
         content="브레인시티 비스타동원 입지환경 - 교통, 생활인프라, 교육, 자연환경 포인트를 확인하세요."
       />
-      <meta property="og:url" content="https://www.leecols.kr/LocationEnvironment/intro" />
-      <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+      <meta property="og:url" content="https://www.sketchs.co.kr/LocationEnvironment/intro" />
+      <meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
       <meta property="og:image:alt" content="브레인시티 비스타동원 입지환경" />
 
       {/* Twitter */}
@@ -137,8 +137,8 @@ const LocationEnvironment1 = () => {
         name="twitter:description"
         content="브레인시티 비스타동원 입지환경 - 교통, 생활인프라, 교육, 자연환경 포인트를 확인하세요."
       />
-      <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
-      <meta name="twitter:url" content="https://www.leecols.kr/LocationEnvironment/intro" />
+      <meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
+      <meta name="twitter:url" content="https://www.sketchs.co.kr/LocationEnvironment/intro" />
 
       {/* JSON-LD */}
       <script type="application/ld+json">
@@ -147,7 +147,7 @@ const LocationEnvironment1 = () => {
           "@type": "WebPage",
           "name": "브레인시티 비스타동원 - 입지환경",
           "description": "브레인시티 비스타동원 입지환경을 안내합니다. 교통, 생활 인프라, 교육 및 자연환경 등 입지 포인트를 확인하세요.",
-          "url": "https://www.leecols.kr/LocationEnvironment/intro",
+          "url": "https://www.sketchs.co.kr/LocationEnvironment/intro",
           "inLanguage": "ko-KR"
         }`}
       </script>

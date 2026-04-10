@@ -60,7 +60,7 @@ const Emodel = () => {
         name="keywords"
         content="브레인시티 비스타동원, E-모델하우스, 온라인 모델하우스, 360도, VR, 평면안내, 59, 84A, 84B, 84C, 106"
       />
-      <link rel="canonical" href="https://www.leecols.kr/FloorPlan/Emodel" />
+      <link rel="canonical" href="https://www.sketchs.co.kr/FloorPlan/Emodel" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -71,8 +71,8 @@ const Emodel = () => {
         property="og:description"
         content="온라인 E-모델하우스로 주요 타입 내부와 마감 포인트를 확인하세요."
       />
-      <meta property="og:url" content="https://www.leecols.kr/FloorPlan/Emodel" />
-      <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+      <meta property="og:url" content="https://www.sketchs.co.kr/FloorPlan/Emodel" />
+      <meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
       <meta property="og:image:alt" content="브레인시티 비스타동원 E-모델하우스 미리보기" />
 
       {/* Twitter */}
@@ -82,8 +82,8 @@ const Emodel = () => {
         name="twitter:description"
         content="온라인 E-모델하우스로 내부 구조와 마감 포인트를 확인하세요."
       />
-      <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
-      <meta name="twitter:url" content="https://www.leecols.kr/FloorPlan/Emodel" />
+      <meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
+      <meta name="twitter:url" content="https://www.sketchs.co.kr/FloorPlan/Emodel" />
 
       {/* JSON-LD: WebPage + Breadcrumbs */}
       <script type="application/ld+json">
@@ -91,7 +91,7 @@ const Emodel = () => {
           "@context": "https://schema.org",
           "@type": "WebPage",
           "name": "브레인시티 비스타동원 - E-모델하우스",
-          "url": "https://www.leecols.kr/FloorPlan/Emodel",
+          "url": "https://www.sketchs.co.kr/FloorPlan/Emodel",
           "inLanguage": "ko-KR",
           "description": "브레인시티 비스타동원 E-모델하우스 온라인 투어. 주요 타입 내부와 공간 구성, 마감 포인트를 확인할 수 있습니다.",
           "isPartOf": {
@@ -105,12 +105,12 @@ const Emodel = () => {
               "@type": "ListItem",
               "position": 1,
               "name": "홈",
-              "item": "https://www.leecols.kr/"
+              "item": "https://www.sketchs.co.kr/"
             }, {
               "@type": "ListItem",
               "position": 2,
               "name": "E-모델하우스",
-              "item": "https://www.leecols.kr/FloorPlan/Emodel"
+              "item": "https://www.sketchs.co.kr/FloorPlan/Emodel"
             }]
           }
         }`}

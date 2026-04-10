@@ -66,7 +66,7 @@ const ComplexGuide3 = () => {
         name="keywords"
         content="브레인시티 비스타동원, 커뮤니티, 단지 커뮤니티, 피트니스, 독서실, 카페, 평택 브레인시티, 브레인시티 아파트"
       />
-      <link rel="canonical" href="https://www.leecols.kr/ComplexGuide/community" />
+      <link rel="canonical" href="https://www.sketchs.co.kr/ComplexGuide/community" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -77,8 +77,8 @@ const ComplexGuide3 = () => {
         property="og:description"
         content="브레인시티 비스타동원 커뮤니티 시설과 편의공간을 한눈에 확인하세요."
       />
-      <meta property="og:url" content="https://www.leecols.kr/ComplexGuide/community" />
-      <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+      <meta property="og:url" content="https://www.sketchs.co.kr/ComplexGuide/community" />
+      <meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
       <meta property="og:image:alt" content="브레인시티 비스타동원 커뮤니티" />
 
       {/* Twitter */}
@@ -88,8 +88,8 @@ const ComplexGuide3 = () => {
         name="twitter:description"
         content="브레인시티 비스타동원 커뮤니티 시설을 확인하세요."
       />
-      <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
-      <meta name="twitter:url" content="https://www.leecols.kr/ComplexGuide/community" />
+      <meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
+      <meta name="twitter:url" content="https://www.sketchs.co.kr/ComplexGuide/community" />
     </Helmet>
 
     <Header isChanged={isScroll} />

@@ -68,7 +68,7 @@ const BusinessGuide2 = () => {
                 name="keywords"
                 content="브레인시티 비스타동원, 분양일정, 청약일정, 모델하우스, 당첨자발표, 계약일정, 평택 브레인시티, 브레인시티 아파트"
             />
-            <link rel="canonical" href="https://www.leecols.kr/BusinessGuide/plan" />
+            <link rel="canonical" href="https://www.sketchs.co.kr/BusinessGuide/plan" />
 
             {/* Open Graph */}
             <meta property="og:type" content="website" />
@@ -79,8 +79,8 @@ const BusinessGuide2 = () => {
                 property="og:description"
                 content="브레인시티 비스타동원 분양일정 - 모델하우스 오픈, 청약 접수 등 주요 일정을 확인하세요."
             />
-            <meta property="og:url" content="https://www.leecols.kr/BusinessGuide/plan" />
-            <meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+            <meta property="og:url" content="https://www.sketchs.co.kr/BusinessGuide/plan" />
+            <meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
             <meta property="og:image:alt" content="브레인시티 비스타동원" />
 
             {/* Twitter */}
@@ -90,7 +90,7 @@ const BusinessGuide2 = () => {
                 name="twitter:description"
                 content="브레인시티 비스타동원 분양일정 - 주요 일정(모델하우스/청약/당첨자발표/계약)을 확인하세요."
             />
-            <meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
+            <meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
             </Helmet>
 
             <Header isChanged={isScroll} />

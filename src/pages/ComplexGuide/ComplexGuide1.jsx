@@ -67,7 +67,7 @@ const ComplexGuide1 = () => {
 				name="keywords"
 				content="브레인시티 비스타동원, 단지배치도, 단지안내, 동 배치, 조경, 커뮤니티시설, 평택 브레인시티, 브레인시티 아파트"
 			/>
-			<link rel="canonical" href="https://www.leecols.kr/ComplexGuide/intro" />
+			<link rel="canonical" href="https://www.sketchs.co.kr/ComplexGuide/intro" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -78,8 +78,8 @@ const ComplexGuide1 = () => {
 				property="og:description"
 				content="브레인시티 비스타동원 단지배치도 - 동별 위치, 주요 동선, 커뮤니티 및 조경 공간 배치를 확인하세요."
 			/>
-			<meta property="og:url" content="https://www.leecols.kr/ComplexGuide/intro" />
-			<meta property="og:image" content="https://www.leecols.kr/Main1.png" />
+			<meta property="og:url" content="https://www.sketchs.co.kr/ComplexGuide/intro" />
+			<meta property="og:image" content="https://www.sketchs.co.kr/Main1.png" />
 			<meta property="og:image:alt" content="브레인시티 비스타동원 단지배치도 이미지" />
 
 			{/* Twitter */}
@@ -89,8 +89,8 @@ const ComplexGuide1 = () => {
 				name="twitter:description"
 				content="브레인시티 비스타동원 단지배치도에서 동별 위치와 동선, 커뮤니티 및 조경 배치를 확인하세요."
 			/>
-			<meta name="twitter:image" content="https://www.leecols.kr/Main1.png" />
-			<meta name="twitter:url" content="https://www.leecols.kr/ComplexGuide/intro" />
+			<meta name="twitter:image" content="https://www.sketchs.co.kr/Main1.png" />
+			<meta name="twitter:url" content="https://www.sketchs.co.kr/ComplexGuide/intro" />
 
 			{/* JSON-LD */}
 			<script type="application/ld+json">
@@ -99,7 +99,7 @@ const ComplexGuide1 = () => {
 				"@type": "WebPage",
 				"name": "브레인시티 비스타동원 - 단지배치도",
 				"description": "브레인시티 비스타동원 단지배치도를 통해 동별 위치와 주요 동선, 커뮤니티 및 조경 공간 배치를 확인하세요.",
-				"url": "https://www.leecols.kr/ComplexGuide/intro",
+				"url": "https://www.sketchs.co.kr/ComplexGuide/intro",
 				"inLanguage": "ko-KR"
 				}`}
 			</script>
