@@ -206,10 +206,10 @@ const Main = () => {
           <div className={styles.mainImageTextBox}>
           <div className={styles.mainImageTextSub}>
             브레인시티 중심 입지
-            <span className={styles.greyText}> 미래가치를 품은 프리미엄 주거</span> |
+            <span className={styles.greyText}> 프리미엄 주거</span> |
             1,600세대 대단지
             <span className={styles.greyText}> 브랜드 프리미엄</span> |
-            품격 있는 라이프스타일
+            품격 있는 라이프
             <span className={styles.greyText}> 브레인시티 비스타동원</span>
           </div>
 
@@ -675,7 +675,7 @@ const Main = () => {
               </Link>
             </div>
           </div> */}
-          {/* <MobileNewsSection newsList={newsLists} /> */}
+          <MobileNewsSection newsList={newsLists} />
 
           {/* 모바일 방문예약 섹션 */}
           <div className={styles.mobileVisitContainer}>

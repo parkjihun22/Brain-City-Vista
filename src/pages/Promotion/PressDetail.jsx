@@ -45,7 +45,7 @@ export default function PressDetail() {
       <Bener />
       <MenuBar
         contents={[
-          { title: "언론보도", url: `/purgio/press` },
+          { title: "언론보도", url: `/브레인시티 비스타동원/press` },
           { title: "방문예약등록", url: `/purgio/customer` },
         ]}
       />
