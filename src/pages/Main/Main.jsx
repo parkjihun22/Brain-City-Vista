@@ -251,11 +251,11 @@ const Main = () => {
                 </div>
 
                 <div className={styles.text3}>
-                  - 청주 도심 핵심 입지에서 누리는 프리미엄 라이프<br />
+                  - 평택 도심 핵심 입지에서 누리는 프리미엄 라이프<br />
                   - 교통·생활·인프라를 가까이 누리는 편리한 생활환경<br />
                   - 차별화된 설계와 공간 구성으로 높아지는 주거 만족도<br />
                   - 품격 있는 커뮤니티와 쾌적한 주거 환경 제공<br />
-                  - 청주의 새로운 랜드마크로 기대되는 프리미엄 가치
+                  - 평택의 새로운 랜드마크로 기대되는 프리미엄 가치
                 </div>
 
                 <div className={styles.text4}>
@@ -558,11 +558,11 @@ const Main = () => {
                 </div>
 
                 <div className={styles.text3}>
-                - 청주 도심 핵심 입지에서 누리는 프리미엄 라이프<br />
+                - 평택 도심 핵심 입지에서 누리는 프리미엄 라이프<br />
                   - 교통·생활·인프라를 가까이 누리는 편리한 생활환경<br />
                   - 차별화된 설계와 공간 구성으로 높아지는 주거 만족도<br />
                   - 품격 있는 커뮤니티와 쾌적한 주거 환경 제공<br />
-                  - 청주의 새로운 랜드마크로 기대되는 프리미엄 가치
+                  - 평택의 새로운 랜드마크로 기대되는 프리미엄 가치
                 </div>
 
             <div className={styles.text4}>
@@ -597,7 +597,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                청주의 중심으로 사는
+                평택의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
