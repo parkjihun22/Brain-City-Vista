@@ -55,6 +55,7 @@ code {
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Cafe24Ohsquare';
   src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Cafe24Ohsquare.woff') format('woff');
@@ -70,7 +71,7 @@ code {
 }
 
 @font-face {
-  font-family: 'NanumHumanTTFBold';
+  font-family: 'Pretendard-Regular';
   src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/NanumHumanTTFBold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
@@ -91,7 +92,7 @@ code {
 }
 
 @font-face {
-  font-family: 'NanumHumanTTFBold';
+  font-family: 'Pretendard-Regular';
   src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/NanumHumanTTFBold.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
